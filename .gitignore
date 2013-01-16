@@ -1,0 +1,5 @@
+bin/
+eggs/
+parts/
+var/
+.*.cfg
